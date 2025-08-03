@@ -11,7 +11,7 @@
 <pre>
 Student in Applied AI & Analytics
 Aspiring AI Engineer
-I love coffee
+I love coffee ☕
 </pre>
 
 </div>
