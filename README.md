@@ -58,19 +58,11 @@ I love coffee
 <h2><pre>// GitHub Stats</pre></h2>
 
 <div align="center">
-
-<p align="center">
-
-&nbsp;
-
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=fountainnnnn&layout=compact&theme=tokyonight&hide_border=true" 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=fountainnnnn&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" 
+  alt="Top Languages" 
   width="400"
 />
-
-&nbsp;
-
-</p>
 
 </div>
 
