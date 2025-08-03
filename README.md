@@ -61,15 +61,9 @@ I love coffee
 
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs?username=fountainnnnn&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" 
-  alt="Top Languages" 
-  width="400"
+  alt="Top Languages"
 />
 
 </div>
 
----
 
-<pre align="center">
-  // End of README
-  // Built with Markdown, GitHub Stats, and SVG Tools
-</pre>
