@@ -57,7 +57,7 @@ I love coffee
 
 <h2><pre>// GitHub Stats</pre></h2>
 
-<div align="center">
+<div>
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs?username=fountainnnnn&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=false" 
   alt="Top Languages" 
@@ -65,7 +65,7 @@ I love coffee
 />
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fountainnnnn&layout=donut-vertical"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fountainnnnn&layout=donut-vertical&theme=transparent"
   alt="Top Languages" 
   width="400"
 />
