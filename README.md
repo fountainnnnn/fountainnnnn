@@ -71,7 +71,7 @@ I love coffee
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=fountainnnnn&layout=donut-vertical&theme=transparent"
         alt="Top Languages Donut" 
         width="400"
-        height="400"
+        height="200"
       />
     </td>
   </tr>
