@@ -59,10 +59,18 @@ I love coffee
 
 <div align="center">
 
+<p align="center">
+
+&nbsp;
+
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=fountainnnnn&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" 
-  alt="Top Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=fountainnnnn&layout=compact&theme=tokyonight&hide_border=true" 
+  width="400"
 />
+
+&nbsp;
+
+</p>
 
 </div>
 
