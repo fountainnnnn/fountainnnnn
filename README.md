@@ -63,8 +63,12 @@ I love coffee
   alt="Top Languages" 
   width="400"
 />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fountainnnnn&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fountainnnnn&layout=donut-vertical"
+  alt="Top Languages" 
+  width="400"
+/>
 
 </div>
 
