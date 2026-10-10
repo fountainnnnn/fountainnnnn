@@ -12,9 +12,9 @@ Right now I'm building **Reyolk**, an AI operations platform for small service b
 
 **[DSAC Photo Booth](https://github.com/fountainnnnn/dsac-photo-booth)**: the photo booth used at Singapore Polytechnic DSAC events. It's an Electron desktop app. Guests get their photo by scanning a QR code on mobile data through a Cloudflare tunnel, and the organiser runs the shutter from their phone.
 
-**[Human Detection for CCTV](https://github.com/fountainnnnn/Camera-Human-Detection-Computer-Vision-)**: local person detection for webcams and RTSP night-vision cameras. It uses a YOLO model I trained on thermal imagery, filters detections over time to cut false alarms, and sends alerts to Telegram. Runs on Docker or as a Windows service.
+**[Human Detection for CCTV](https://github.com/fountainnnnn/edge-human-detection)**: local person detection for webcams and RTSP night-vision cameras. It uses a YOLO model I trained on thermal imagery, filters detections over time to cut false alarms, and sends alerts to Telegram. Runs on Docker or as a Windows service.
 
-**[ProjectAI](https://github.com/fountainnnnn/moe-stuffs)**: a gamified AI-literacy platform built in one morning at the Edu2030 Vibe Hackathon at MOE HQ. Students learn prompting by doing it, with an LLM judge grading every prompt against a rubric.
+**[ProjectAI](https://github.com/fountainnnnn/edu2030-projectai)**: a gamified AI-literacy platform built in one morning at the Edu2030 Vibe Hackathon at MOE HQ. Students learn prompting by doing it, with an LLM judge grading every prompt against a rubric.
 
 **[SUPAgent](https://github.com/fountainnnnn/SUPAgent)**: turns a company's SOPs, policies and brand guide into a customer-support agent, then deploys it. An independent reviewer agent red-teams it before release, and guardrails in code block malicious requests.
 
