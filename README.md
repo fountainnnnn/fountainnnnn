@@ -4,33 +4,31 @@
 
 <p align="center">
   <a href="https://ngyuhang.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=640&lines=I+build+AI+products+end+to+end;LLM+pipelines+%E2%86%92+APIs+%E2%86%92+interfaces+%E2%86%92+deploys;Agents%2C+RAG%2C+computer+vision%2C+evals;Currently+building+Reyolk" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=640&lines=I+build+AI+products+end+to+end;LLM+pipelines+%E2%86%92+APIs+%E2%86%92+interfaces+%E2%86%92+deploys;Agents%2C+RAG%2C+computer+vision%2C+evals" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://ngyuhang.com"><img src="https://img.shields.io/badge/Portfolio-ngyuhang.com-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/ngyuhang/"><img src="https://img.shields.io/badge/LinkedIn-ngyuhang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=fountainnnnn&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
 
-## 👋 About me
+## About me
 
-- 🎓 Diploma in **Applied AI & Analytics** at **Singapore Polytechnic**
-- 🛠️ I take AI products from the model or LLM pipeline through the backend to the interface people use, then deploy and run them
-- 🚀 Most of what I build ships to real users: event organisers, schools, small businesses and hackathon judges
-- 🔭 Right now: **Reyolk**, an AI operations platform for small service businesses (inbox, CRM, scheduling, quotes and invoices in one place). Closed source for now
+- Diploma in **Applied AI & Analytics** at **Singapore Polytechnic**
+- I take AI products from the model or LLM pipeline through the backend to the interface people use, then deploy and run them
+- Most of what I build ships to real users: event organisers, schools, small businesses and hackathon judges
 
 ---
 
-## 🌟 Featured projects
+## Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/fountainnnnn/AgentLabs">AgentLabs</a></h3>
+      <h3><a href="https://github.com/fountainnnnn/AgentLabs">AgentLabs</a></h3>
       <p>Attacks AI agents with adversarial prompts, checks failures with deterministic rules, patches the agent and retests, all shown as a live battle arena. Also trains LoRA adapters for small open models.</p>
       <a href="https://agentlabs-production-efd2.up.railway.app/"><img src="https://img.shields.io/badge/Live_demo-online-22c55e?style=flat-square&logo=railway&logoColor=white" alt="Live demo" /></a>
       <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -38,7 +36,7 @@
       <img src="https://img.shields.io/badge/-LoRA-FF6F00?style=flat-square&logo=pytorch&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>🔬 <a href="https://github.com/fountainnnnn/ProofBench">ProofBench</a></h3>
+      <h3><a href="https://github.com/fountainnnnn/ProofBench">ProofBench</a></h3>
       <p>Evaluates software tools from their documented integration paths: generates adapters, runs them in disposable sandboxes and scores the output with a deterministic evaluator.</p>
       <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -48,14 +46,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 <a href="https://github.com/fountainnnnn/lactic-sg-alevel-ai-tutor">Lactic</a></h3>
+      <h3><a href="https://github.com/fountainnnnn/lactic-sg-alevel-ai-tutor">Lactic</a></h3>
       <p>An AI study tutor app for Singapore A-Level students, with graph-structured retrieval over a notes vault and a deterministic agent harness.</p>
       <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/-RAG-6366F1?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>🌱 <a href="https://github.com/fountainnnnn/esg-evidence-engine">ESG Evidence Engine</a></h3>
+      <h3><a href="https://github.com/fountainnnnn/esg-evidence-engine">ESG Evidence Engine</a></h3>
       <p>Checks Singapore-listed companies' ESG claims against evidence, including satellite imagery to verify that the solar farm in the report was actually built. PolyFintech 2026, team WSP Squad.</p>
       <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -64,13 +62,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📸 <a href="https://github.com/fountainnnnn/dsac-photo-booth">DSAC Photo Booth</a></h3>
+      <h3><a href="https://github.com/fountainnnnn/dsac-photo-booth">DSAC Photo Booth</a></h3>
       <p>The photo booth used at Singapore Polytechnic DSAC events. Guests scan a QR code to get their photo over a Cloudflare tunnel, and the organiser runs the shutter from their phone.</p>
       <img src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
       <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h3>🎥 <a href="https://github.com/fountainnnnn/edge-human-detection">Edge Human Detection</a></h3>
+      <h3><a href="https://github.com/fountainnnnn/edge-human-detection">Edge Human Detection</a></h3>
       <p>Local person detection for webcams and night-vision CCTV, using a YOLO model fine-tuned on thermal imagery, with Telegram alerts.</p>
       <img src="https://img.shields.io/badge/-YOLO-00FFFF?style=flat-square&logoColor=black" />
       <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
@@ -79,13 +77,13 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/fountainnnnn/edu2030-projectai">ProjectAI</a></h3>
+      <h3><a href="https://github.com/fountainnnnn/edu2030-projectai">ProjectAI</a></h3>
       <p>A gamified AI-literacy platform built in one morning at the Edu2030 Vibe Hackathon at MOE HQ. An LLM judge grades every student prompt against a rubric.</p>
       <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/-Hackathon-EC4899?style=flat-square" />
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/fountainnnnn/SUPAgent">SUPAgent</a></h3>
+      <h3><a href="https://github.com/fountainnnnn/SUPAgent">SUPAgent</a></h3>
       <p>Turns a company's SOPs, policies and brand guide into a deployed support agent, red-teamed by a reviewer agent before release. Built in 12 hours at the 'Sup Build2026 Hackathon.</p>
       <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/-Agents-6366F1?style=flat-square" />
@@ -94,7 +92,7 @@
 </table>
 
 <details>
-<summary><b>🧪 More: live AI demo apps</b></summary>
+<summary><b>More: live AI demo apps</b></summary>
 <br />
 
 | App | What it does | |
@@ -109,7 +107,7 @@
 
 ---
 
-## 🧰 Tech stack
+## Tech stack
 
 <p align="center"><b>Languages & frontend</b><br /><br />
   <img src="https://skillicons.dev/icons?i=ts,js,py,go,dart,react,nextjs,tailwind,vite&perline=9" alt="Languages and frontend" />
@@ -130,7 +128,7 @@
 
 ---
 
-## 📊 GitHub stats
+## GitHub stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=fountainnnnn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
