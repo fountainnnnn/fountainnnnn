@@ -110,7 +110,7 @@
 ## Tech stack
 
 <p align="center"><b>Languages & frontend</b><br /><br />
-  <img src="https://skillicons.dev/icons?i=ts,js,py,go,dart,react,nextjs,tailwind,vite&perline=9" alt="Languages and frontend" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,html,css,dart,react,nextjs,tailwind,vite&perline=10" alt="Languages and frontend" />
 </p>
 <p align="center"><b>Backend & AI</b><br /><br />
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,pytorch,tensorflow,sklearn,opencv,flutter,electron&perline=9" alt="Backend and AI" />
